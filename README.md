@@ -1,2 +1,3 @@
 # webssbot
-Screenshot Bot
+Telegram screenshot bot. Run It With Go
+
